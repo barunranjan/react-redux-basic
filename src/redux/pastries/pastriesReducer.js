@@ -1,5 +1,4 @@
-import { buyPastries } from "./pastriesAction";
-import { BUY_VEG_PASTRIES, BUY_NON_VEG_PASTRIES } from "./pastriesType";
+import { BUY_NON_VEG_PASTRIES, BUY_VEG_PASTRIES } from "./pastriesType";
 
 const initialState = {
   numOfVegPastries: 30,
